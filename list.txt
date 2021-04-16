@@ -1,11 +1,6 @@
 Milk 
 Butter 
-Sugar
-Salt 
-Pepper 
-Flower
-Juice
-Coffee
+
 
 
 
